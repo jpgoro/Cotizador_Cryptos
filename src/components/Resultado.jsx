@@ -50,7 +50,7 @@ const Resultado = ({ resultado }) => {
           Variación últimas 24hs: <span>{CHANGEPCT24HOUR}</span>
         </Texto>
         <Texto>
-          última actualización: <span>{LASTUPDATE}</span>
+          Última Actualización: <span>{LASTUPDATE}</span>
         </Texto>
       </div>
     </Contenedor>
